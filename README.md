@@ -1,7 +1,7 @@
 ## Hi there 👋! I'm Zee
 
 <h3>Skills</h3>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,git,github,firebase,)](https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,git,github,firebase,netlify,)](https://skillicons.dev">
 <!--
 **swabjul/swabjul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
