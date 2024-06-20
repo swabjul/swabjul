@@ -1,5 +1,7 @@
-## Hi there 👋! I'm Zee, a web developer from Cebu, Philippines.
+## Hi there 👋! I'm Zee
 
+<h3>Skills</h3>
+<p>[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)</p>
 <!--
 **swabjul/swabjul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
